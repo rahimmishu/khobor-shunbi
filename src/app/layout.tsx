@@ -103,6 +103,21 @@ export default function RootLayout() {
       <main className="flex-grow">
         <Outlet />
       </main>
+
+      {/* AdSense Friendly Footer */}
+      <footer className="bg-[#0B0F19] border-t border-white/10 mt-10 py-8">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center gap-4">
+          <div className="text-gray-400 text-sm">
+            © {new Date().getFullYear()} <span className="text-white font-bold">খবর শুনবি?</span> - সর্বস্বত্ব সংরক্ষিত।
+          </div>
+          <div className="flex flex-wrap justify-center gap-4 md:gap-8 text-sm font-medium">
+            <Link to="/about" className="text-gray-400 hover:text-[#FF0033] transition-colors">আমাদের সম্পর্কে</Link>
+            <Link to="/privacy" className="text-gray-400 hover:text-[#FF0033] transition-colors">প্রাইভেসি পলিসি</Link>
+            <Link to="/terms" className="text-gray-400 hover:text-[#FF0033] transition-colors">শর্তাবলী</Link>
+            <Link to="/contact" className="text-gray-400 hover:text-[#FF0033] transition-colors">যোগাযোগ</Link>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }
