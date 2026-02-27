@@ -1,0 +1,39 @@
+name: Auto Fetch News Every 30 Mins
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # প্রতি ৩০ মিনিটে রান হবে
+  workflow_dispatch: # আপনি চাইলে ম্যানুয়ালিও রান করতে পারবেন
+
+permissions:
+  contents: write # GitHub-কে ফাইল আপডেট করার পারমিশন দেওয়া
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    - name: Run Scraper Script
+      run: python scraper.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add public/live_news.json
+        # যদি নতুন খবর থাকে তবেই কমিট করবে, নাহলে এরর দেবে না
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: Latest news fetched"
+        git push
