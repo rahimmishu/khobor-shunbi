@@ -1,5 +1,131 @@
 [
     {
+        "id": "80786a9614",
+        "url": "https://www.bbc.com/bengali/articles/cq8jzrx7zvgeo?at_medium=RSS&at_campaign=rss",
+        "title": "বিশ্বব্যাপী অনেক ওয়েবসাইট কেন বন্ধ?",
+        "category": "BBC বাংলা",
+        "time": "Thu, 22 Oct 2026",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_bengali/15df/live/bbb61e90-cddc-11f1-bc2e-018d645d8d21.jpg",
+        "details": "এক দশকেরও বেশি সময় ধরে ইন্টারনেটের ভিত্তি প্রযুক্তিতে গুরুতর ত্রুটি চোখের আড়ালে থেকে গিয়েছিল যা কৃত্রিম বুদ্ধিমত্তা (এআই) প্রকাশ্যে আনতে সাহায্য করেছে বলে জানা যাচ্ছে। এর ফলে বিশ্বব্যাপী সাইবার-নিরাপত্তা সতর্কতা জারি হয়েছে।\n\nদুর্বলতাগুলো পিএইচপি নামে একটি প্রোগ্রামিং ভাষার মধ্যে রয়েছে, যা ২০০০-এর দশক থেকে আন্তর্জাতিকভাবে ওয়েবসাইট তৈরির জন্য ব্যবহৃত হয়ে আসছে।\n\nবুধবারের এই আবিষ্কারের প্রভাব সামাল দিতে বিশ্বজুড়ে সরকার ও সাইবার-নিরাপত্তা সংস্থাগুলো তৎপর হয়ে উঠেছে এবং ওয়েবসাইট পরিচালনাকারীদের একটি নতুন জরুরি সমাধান ইনস্টল করতে অথবা তাদের প্ল্যাটফর্মগুলো অফলাইনে নিয়ে যাওয়ার বিষয়টি বিবেচনা করতে আহ্বান জানিয়েছে।\n\nসাইবার-নিরাপত্তা সংস্থা উইজ, যেটির গবেষকরা এই দুর্বলতাগুলো উন্মোচন করেছেন, এই ত্রুটিগুলোকে এআই দ্বারা এযাবৎকালের শনাক্ত করা \"সবচেয়ে গুরুতর\" বলে বর্ণনা করেছে।\n\nওপেনএআই, যাদের প্রযুক্তি ব্যবহার করে এই ত্রুটিগুলো খুঁজে বের করা হয়েছিল, এই আবিষ্কারকে \"সাম্প্রতিক কালের অন্যতম প্রভাবশালী নিরাপত্তা সমস্যা\" বলে অভিহিত করেছে।\n\nবেশিরভাগ মানুষ হয়তো পিএইচপি-এর নাম শোনেননি,  কিন্তু তারা অবশ্যই প্রতিদিন এর সাথে কাজ করেন। এর পুরো নাম 'পিএইচপি: হাইপারটেক্সট প্রিপ্রসেসর'।\n\nঅনলাইন শপ, উইকিপিডিয়া এবং ওয়ার্ডপ্রেস-সহ অসংখ্য প্ল্যাটফর্মকে শক্তি জোগায় এই পিএইচপি, যা ব্লগের মতো অনেক ওয়েবসাইটের নেপথ্যের কন্টেন্ট ম্যানেজমেন্ট সিস্টেম।\n\nগরিলা সাইবার সিকিউরিটির প্রধান নির্বাহী পল স্পেন বিবিসিকে বলেছেন, \"আপনি যখন উইকিপিডিয়ার মতো কোনো ওয়েবসাইট পরিদর্শন করেন, তখন পিএইচপি হলো সেই কোড যা আপনার প্রয়োজনীয় তথ্য সংগ্রহ করে এবং ওয়েবে পড়ার উপযোগী করে তা উপস্থাপন করে।\"\n\nকিন্তু এমন একটি ত্রুটির কারণে, যার মাধ্যমে আক্রমণকারীরা প্রমাণীকরণ ছাড়াই প্রভাবিত ওয়েব সার্ভারগুলোর নিয়ন্ত্রণ নিতে এবং সংবেদনশীল তথ্য চুরি করতে পারত, পিএইচপি-র ওপর নির্মিত সবকিছুই অরক্ষিত হয়ে পড়েছিল।\n\nস্পেন বলেছে, এআই এই ধরনের আক্রমণকে আরও সহজ ও দ্রুততর করে তুলতে পারে এবং অনুমান করছে যে এই ত্রুটিটি \"লাখ লাখ\" ওয়েবসাইটকে প্রভাবিত করতে পারে।\n\nঅ্যাডিলেড বিশ্ববিদ্যালয়ের সাইবার-নিরাপত্তা গবেষক জিল স্লে বলেছেন, হ্যাকার বা কোনো দেশ যদি এই ত্রুটিকে অস্ত্র হিসেবে ব্যবহার করে ওয়েবসাইট থেকে ব্যক্তিগত তথ্য হাতিয়ে নেয়, তবে তা হবে 'ভয়াবহ'।\n\nএই সতর্কবার্তার কারণে গেমিং প্ল্যাটফর্ম থেকে শুরু করে সরকারি পোর্টাল এবং অনলাইন ফোরাম পর্যন্ত বিশ্বব্যাপী পরিষেবা ব্যাহত হয়েছে।\n\nএর মধ্যে রয়েছে অনলাইন বিশ্বকোষ উইকিপিডিয়ার পরিচালক সংস্থা উইকিমিডিয়া, যা সতর্কতামূলক ব্যবস্থা হিসেবে তাদের বেশ কিছু সিস্টেম বন্ধ করে দিয়েছে।\n\nফিনল্যান্ডের সরকার, এডিনবরা কাউন্সিল এবং বিবিসি তাদের সাইট ও পেজগুলো অফলাইন করে দিয়েছে এবং নেদারল্যান্ডসের সাইবার-নিরাপত্তা সংস্থাও তাদের ওয়েবসাইটটি সরিয়ে নিয়েছে।\n\nকাউন্সিল এবং স্বাস্থ্য বোর্ডসহ স্কটল্যান্ডের বেশ কিছু সরকারি সংস্থাও তাদের ওয়েবসাইটগুলো অফলাইনে নিয়ে গেছে।"
+    },
+    {
+        "id": "8d8da652ad",
+        "url": "https://www.bbc.com/bengali/articles/c5gm0xex0w0zo?at_medium=RSS&at_campaign=rss",
+        "title": "'সব সন্তানের নামও মনে রাখতে পারি না',  আফগানিস্তানে ৫৮ সন্তানের বাবা মোহাম্মদ সাদিকের গল্প",
+        "category": "BBC বাংলা",
+        "time": "Thu, 22 Oct 2026",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_bengali/8bf2/live/4e021140-ce06-11f1-a64c-550be9e3c66b.png",
+        "details": "আফগানিস্তানে বড় পরিবার এবং সন্তানের সংখ্যা অনেক এমন দম্পতির দেখা পাওয়া সাধারণ ঘটনা। তবে উরুজগান প্রদেশের মোহাম্মদ সাদিকের পরিবার সম্ভবত দেশটির অন্যতম বড় একটি পরিবার।\n\nমোহাম্মদ সাদিকের চার স্ত্রীর ঘরে ৫৮টি সন্তান রয়েছে এবং তার সর্বকনিষ্ঠ সন্তানের জন্ম হয়েছে মাত্র কয়েক সপ্তাহ আগে। এত বড় পরিবার চালানো তার জন্য বড় একটি চ্যালেঞ্জ হয়ে উঠেছে।\n\nতিনি বলেন, তার সমস্ত প্রচেষ্টা প্রতিদিন সন্তানদের খাবার ও পানীয়ের ব্যবস্থা করাকে কেন্দ্র করেই আবর্তিত হয়। আর্থিক সীমাবদ্ধতার কারণে পরিবারের ছোট সন্তানরাও কঠিন পরিস্থিতির মুখোমুখি হচ্ছে।\n\nএই পরিবারের চার নারীও বছরের পর বছর গর্ভধারণ, সন্তান জন্মদান এবং সন্তান লালন-পালনের দায়িত্ব বহন করে আসছেন।\n\nমোহাম্মদ সাদিকের ভাষ্য অনুযায়ী, বিয়ের সময় তার চার স্ত্রীর বয়সই খুব অল্প ছিল, ১৩ থেকে ১৬ বছরের মধ্যে ছিলেন তারা।\n\nমোহাম্মদ সাদিক হাসতে হাসতে বলেন, কখনও কখনও তিনি তার সব সন্তানের নামও মনে রাখতে পারেন না। প্রতি রাতে ঘুমাতে যাওয়ার আগে তিনি সন্তানদের গুনে দেখেন, সবাই বাড়িতে আছে কি না তা নিশ্চিত করার জন্য।\n\nবিবিসি বাংলার হোয়াটসঅ্যাপ চ্যানেল ফলো করতে এখানে ক্লিক/ট্যাপ করুন\n\nমোহাম্মদ সাদিকের মতে, ছোট সন্তানরা যখন তাকে ঘিরে জড়ো হয়, তখন তাদের বাড়ি কোলাহল, হাসি আর ব্যস্ততায় ভরে ওঠে, যেন সেখানে কোনো বিয়ের অনুষ্ঠান চলছে।\n\nতবে এই পরিবারের জীবনে আনন্দের পাশাপাশি রয়েছে গুরুতর আর্থিক সংকট। দারিদ্র্য কখনও কখনও এমন পর্যায়ে পৌঁছে যায় যে কিছু সন্তানকে ক্ষুধার্ত অবস্থায় ঘুমাতে যেতে হয়।\n\nপরিবারটিতে দিনে মাত্র দুইবার রান্না হয়, সকালে এবং সন্ধ্যায়। পরিবারের দুই জন নারী রান্নার দায়িত্ব পালন করেন।\n\n৫৭ বছর বয়সী মোহাম্মদ সাদিক একটি গাড়ির শোরুমে কাজ করেন। তিনি বলেন, আরও সন্তান নেওয়ার ক্ষেত্রে তার একমাত্র উদ্দেশ্য ছিল \"নবীর অনুসারীর সংখ্যা বাড়ানো\"।\n\nতার এক মেয়ের বিয়ের সঙ্গে সম্পর্কিত একটি মজার ঘটনা বর্ণনা করে তিনি বলেন, \"যে মৌলভি সাহেব বিয়ে পড়িয়েছিলেন, তিনি আমাকে আমার মেয়ের নাম জিজ্ঞেস করেছিলেন। আমি কিছুক্ষণ চিন্তা করে ভুলবশত আমার অন্য এক মেয়ের নাম বলে ফেলি। তখন মৌলভি সাহেব হেসে বললেন, আপনি বাড়ি গিয়ে আবার দেখে আসুন, ভুল নাম বলেছেন কি না।\"\n\nবিবিসি বাংলার সর্বশেষ খবর ও বিশ্লেষণ এখন সরাসরি আপনার ফোনে।\n\nবিবিসি বাংলার সাথে থাকার জন্য ধন্যবাদ বিবিসি বাংলার হোয়াটসঅ্যাপ চ্যানেল\n\nতিনি ব্যাখ্যা করেন, এত বেশি সন্তান থাকার কারণে সবার নাম মনে রাখা তার জন্য প্রায়ই কঠিন হয়ে পড়ে। তাই তিনি অধিকাংশকেই \"বাবা\" বা \"আমার সন্তান\" বলে ডাকেন।"
+    },
+    {
+        "id": "cb3aedf594",
+        "url": "https://www.bbc.com/bengali/articles/cm70pjl0ew67o?at_medium=RSS&at_campaign=rss",
+        "title": "স্টেট ব্যাংক অফ ইন্ডিয়ার ডেটা ফাঁসের পর গ্রাহকরা কি অ্যাকাউন্ট হ্যাকের ঝুঁকিতে?",
+        "category": "BBC বাংলা",
+        "time": "Thu, 22 Oct 2026",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_bengali/1ca6/live/bba4ed40-cdec-11f1-bc2e-018d645d8d21.png",
+        "details": "ভারতের বৃহত্তম রাষ্ট্রায়ত্ত ব্যাংক, স্টেট ব্যাংক অফ ইন্ডিয়া বা এসবিআই-এর হাজার হাজার গ্রাহকের তথ্য ডার্ক ওয়েবে ফাঁস হয়েছে।\n\nএই তথ্য ফাঁসের ঘটনার তদন্তও শুরু করেছে ব্যাংকটি, স্টক এক্সচেঞ্জে জমা দেওয়া একটিফাইলিংয়েবুধবার তারা এই কথা জানিয়েছে।\n\nএসবিআই জানিয়েছে, ডার্ক ওয়েবে ফাঁস হওয়া তথ্যের মধ্যে তিন হাজার ৮৯৭টি রেকর্ডে গ্রাহকের ব্যক্তিগত পরিচয় শনাক্তকারী তথ্য বা পার্সোনালি আইডেন্টিফায়েবল ইনফরমেশন (পিআইআই) পাওয়া গেছে।\n\nপিআইআই বলতে নাম, মোবাইল নম্বর, ইমেল, ঠিকানা, আধার নম্বর বা ব্যাংকের সিআইএফ নম্বরের মতো তথ্য বোঝায়।\n\nবম্বে স্টক এক্সচেঞ্জে (বিএসই-তে) জমা দেওয়া একটি ফাইলিংয়ে ব্যাংকটি জানিয়েছে, এই তথ্য প্রকাশ্যে চলে আসায় গ্রাহকদের নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে। ব্যাংকের আশঙ্কা, এই গ্রাহকদের সঙ্গে প্রতারণা করা হতে পারে।\n\nতবে তারা এটাও জানিয়েছে, এই ঘটনা মোকাবিলা করতে এবং এর প্রভাব সীমিত রাখতে তারা যথাযথ পদক্ষেপ নিতে শুরু করেছে।\n\nব্যাংকের দাবি, এই ঘটনার ফলে তাদের ব্যবসায়িক কাজকর্ম, আর্থিক কর্মক্ষমতা বা ব্যবসার ধারাবাহিকতার উপরে উল্লেখযোগ্য কোনো প্রভাব পড়েনি।\n\nব্যাংকের গুরুত্বপূর্ণ কাজকর্ম কোনোরকম বাধা ছাড়াই স্বাভাবিকভাবে চলছে বলেও জানানো হয়েছে।\n\nএসবিআই জানিয়েছে, ডার্ক ওয়েবে থাকা প্রায় তিন লাখ ৭৫ হাজার রেকর্ডের প্রাথমিক তদন্তে তিন হাজার ৮৯৭টি রেকর্ডে ব্যক্তির পরিচয় শনাক্ত করার মতো ব্যক্তিগত তথ্য পাওয়া গেছে।\n\nইনস্টাগ্রামে বিবিসি বাংলা ফলো করতে ক্লিক/ট্যাপ করুন এখানে\n\nব্যাংকটি জানিয়েছে, ডার্ক ওয়েবে ফাঁস হওয়া গ্রাহকদের তথ্যের মধ্যে রয়েছে তাদের নাম, লিঙ্গ, নথিভুক্ত মোবাইল নম্বর, জন্মতারিখ, ইমেল আইডি ও বাড়ির ঠিকানা।\n\nএই রেকর্ডগুলোয় ব্যাংকের শাখা এবং গ্রাহকের তথ্যের ফাইল বা কাস্টমার ইনফরমেশন ফাইল (সিআইএফ-এর) সঙ্গে সম্পর্কিত আইডেন্টিফিকেশন নম্বর, লিড আইডি এবং ঋণ ও লিড রেকর্ড সংক্রান্ত রেকর্ডের মেটাডেটাও রয়েছে।\n\nএসবিআই জানিয়েছে, ১৬ই অক্টোবর তাদের থ্রেট ইন্টেলিজেন্স পরিষেবা প্রদানকারী, ডিফেন্স সাইবার এজেন্সি এবং কেন্দ্রীয় সরকারের সাইবার নিরাপত্তা সংস্থা সিইআরটি-ইন-এর কাছ থেকে ডার্ক ওয়েবে গ্রাহকদের তথ্য থাকার সম্ভাবনা সম্পর্কে সতর্কবার্তা পেয়েছিল তারা।\n\nসাইবার নিরাপত্তা সংক্রান্ত এই ঘটনা মোকাবিলা করার যথাযথ প্রক্রিয়া তারা চালু করেছে এবং ঘটনাটি তদন্তের জন্য সিইআরটি-ইন স্বীকৃত একটি স্বাধীন সাইবার নিরাপত্তা সংস্থাকেও নিয়োগ করার কথা বলেছে ব্যাংকটি।\n\nবিবিসি বাংলার সর্বশেষ খবর ও বিশ্লেষণ এখন সরাসরি আপনার ফোনে।"
+    },
+    {
+        "id": "5cf5bf8399",
+        "url": "https://www.bbc.com/bengali/articles/c5wyr11lyzmeo?at_medium=RSS&at_campaign=rss",
+        "title": "বিবিসি বাংলার ৮৫ বছর: রেডিও থেকে স্মার্টফোনের পর্দায় বিশ্বাসের এক দীর্ঘ যাত্রা",
+        "category": "BBC বাংলা",
+        "time": "Sun, 11 Oct 2026",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_bengali/573d/live/f3d4b770-c547-11f1-b4f1-2359026a88ee.jpg",
+        "details": "১৯৪১ সালে দ্বিতীয় বিশ্বযুদ্ধ নিয়ে যখন বিশ্বের বিভিন্ন প্রান্তে অস্থিরতা চলছে, তখন যুদ্ধের খবর আরো বেশি মানুষের কাছে পৌঁছে দেয়ার জন্য বিবিসি নতুন কিছু ভাষা বিভাগ চালু করার উদ্যোগ নেয়। যার মধ্যে অন্যতম ছিল বাংলা—যেটির প্রথম সম্প্রচার হয় সে বছরের ১১ই অক্টোবর। তখন থেকে গত ৮৫ বছরে বিশ্বের বাংলাভাষীদের কাছে নানা সময়ে সংবাদের গুরুত্বপূর্ণ মাধ্যম হিসেবে পাশে থেকেছে বিবিসি বাংলা।\n\nশুরুর গল্পটা অবশ্য আজকের দিনের তুলনায় বেশ সংক্ষিপ্ত। লন্ডন থেকে প্রচারিত প্রথম অনুষ্ঠানটির দৈর্ঘ্য ছিল সপ্তাহে মাত্র ১৫ মিনিট!\n\nআজকের রিলস বা শর্টসের যুগে ১৫ মিনিটকে বেশ দীর্ঘ মনে হতে পারে, কিন্তু তখন গোটা সপ্তাহের বিশ্বযুদ্ধের খবর জানার জন্য এটুকু সময়ই পেতেন শ্রোতারা।\n\nমজার বিষয় হলো, শুরুর দিকে লন্ডনে বিবিসির ইন্ডিয়া সেকশনে বসে বাংলা অনুষ্ঠানের তদারকি করতেন এবং ইংরেজি কপিগুলো লিখতেন এরিক ব্লেয়ার নামের এক ব্যক্তি, সাহিত্যজগৎ যাকে চেনে জর্জ অরওয়েল নামে।\n\nতার কালজয়ী উপন্যাস 'অ্যানিম্যাল ফার্ম' কিংবা '১৯৮৪' লেখার আগেই তিনি বিবিসি বাংলার সূচনার সাথে জড়িয়ে গিয়েছিলেন।\n\nকিন্তু অরওয়েল তখন জানতেন না, লন্ডনের স্টুডিওতে শুরু হওয়া এই ছোট্ট অনুষ্ঠানটির মাধ্যমে শুরু হওয়া এই সংবাদমাধ্যম একদিন শুধু বিশ্বজুড়ে কোটি-কোটি বাঙালির কাছে শুধু পৌঁছুবেই না, এমন এক দেশের ইতিহাসের সাথে অবিচ্ছেদ্যভাবে জড়িয়ে যাবে, যে দেশটির জন্মই তখনও হয়নি!\n\n১৯৪৪ সালে অনুষ্ঠানের পরিধি বেড়ে যুক্ত হয় সাহিত্য ও সংস্কৃতির ম্যাগাজিন অনুষ্ঠান 'বিচিত্রা'।\n\nএরপর ১৯৪৭-এ ব্রিটিশ শাসিত ভারত ভাগ হলো। নতুন বাস্তবতার সাথে মানিয়ে নিল বিবিসি বাংলা।\n\nখবরের পাশাপাশি সাহিত্য, সংস্কৃতি ও আলোচনার হাত ধরে ধীরে ধীরে সামনে চলে এলো উত্তপ্ত রাজনীতি।\n\nষাটের দশকে বাঙালির স্বায়ত্তশাসনের দাবি ও গণঅভ্যুত্থানের উত্তাল সময়ে যাত্রা শুরু করে 'প্রবাহ'- যা কেবল একটি অনুষ্ঠানের নাম থাকেনি, হয়ে উঠেছিল বিবিসি বাংলার পরিচয়ের অংশ।\n\nবিবিসি তখন শুধু দূরের পৃথিবীর খবরই বলছে না, বলছে বাঙালির চারপাশে কী ঘটছে।\n\nইতিহাসের বিভিন্ন বাঁকবদল- বিশেষ করে বাংলাদেশের মুক্তিযুদ্ধ, আশির দশকের স্বৈরাচারবিরোধী আন্দোলন, ওয়ান-ইলেভেন এবং ২৪-এর গণঅভ্যুত্থানসহ বিভিন্ন সময়ে বিবিসি বাংলা পাঠক-দর্শক এবং শ্রোতাদের কাছে নিয়ে গেছে বস্তুনিষ্ঠ সংবাদ।\n\nবিশ্বের বড় সব ঘটনাপ্রবাহ, যুদ্ধ-বিগ্রহ, রাজনীতি, অর্থনীতি এবং জানা-অজানা নানা বিষয় নিয়ে বিবিসি বাংলা তার বাংলাদেশ, ভারত এবং সারা বিশ্বে ছড়িয়ে থাকা বাংলাভাষী পাঠক-দর্শকদের কাছে সংবাদ পরিবেশন করেছে।\n\nবিবিসি বাংলার সর্বশেষ খবর ও বিশ্লেষণ এখন সরাসরি আপনার ফোনে।\n\nবিবিসি বাংলার সাথে থাকার জন্য ধন্যবাদ বিবিসি বাংলার হোয়াটসঅ্যাপ চ্যানেল"
+    },
+    {
+        "id": "25144a384c",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4TjU2c3JnUk1KQmE4enRPRzB3YWhDQnZvcW0yU3d2a1d0ekZ0dE9HU0F3N2F3aDFHT0pTbWNlbFVGUzRXeDkybHJrUnktT3Y0MmRiZnZWcFNaUkQwNkcwbTlPcE8zd9IBc0FVX3lxTE0weHpuYzJnYlNGUU5oQlFvckp5dzJHM1hvVDFJQjJlSXZ3UHNGVy1VaGRwc1F3VHN3Y3ZOaEVkb1Y4Vm9fcmZuVVBMVjFsVE95eXhIU3c4MGZJcWlvSGhDbnpJQ3FNRUtjTmRZaXR4ZG8tRm8?oc=5",
+        "title": "সৌদিতে এ বছরের প্রথম ৬ মাসে ৫৯ বিদেশির মৃত্যুদণ্ড কার্যকর, আছে বাংলাদেশিও - প্রথম আলো",
+        "category": "Google News BD",
+        "time": "Thu, 22 Oct 2026",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "details": "সৌদিতে এ বছরের প্রথম ৬ মাসে ৫৯ বিদেশির মৃত্যুদণ্ড কার্যকর, আছে বাংলাদেশিওপ্রথম আলোসৌদি আরবে দুই বাংলাদেশির মৃত্যুদণ্ড কার্যকর, গোপনীয় নথিতে যা উঠে এসেছেপ্রথম আলোপ্রবাসীকল্যাণ মন্ত্রণালয়ে পাঠানো চিঠিতে যা জানাল জেদ্দাস্থ বাংলাদেশ কনস্যুলেটThe Daily Ittefaqহঠাৎ অসুস্থ হয়ে হাসপাতালে আব্দুল মঈন খানকালের কণ্ঠসৌদিতে ২ বাংলাদেশির মৃত্যুদণ্ড: গ্রেপ্তার হন পৃথক অভিযোগে, মিশনের চিঠিতে আর যা আছেbdnews24.com"
+    },
+    {
+        "id": "40760c6d4a",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QRmx1a2RLSTNGV3U2c3ZhcDREN3ZZZnRwYUU0bXc0VHZzd0pSQ0NEbmNQSnY1ZWRQWXZjZElTdUdpa09rYjFGV19DVGdtb1JRNFQ3dnpIQ29Tenc?oc=5",
+        "title": "হেফাজতের ‘মুরুব্বিয়ানায়’ কওমি ঘরানার ৭ দলের জোট - bdnews24.com",
+        "category": "Google News BD",
+        "time": "Thu, 22 Oct 2026",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "details": "হেফাজতের ‘মুরুব্বিয়ানায়’ কওমি ঘরানার ৭ দলের জোটbdnews24.comহেফাজতের ‘মুরব্বিয়ানায়’ কওমি ঘরানার সাত দলের জোটপ্রথম আলোহেফাজতের তত্ত্বাবধানে কওমি ঘরানার ৭ দলের ঐক্যদ্য ডেইলি স্টার বাংলাজামায়াত ব্যতীত ’সমমনা ইসলামী দল’ ব্যানারে একসঙ্গে চলবে কওমি ঘরানার ৭ দলদৈনিক ইনকিলাবহেফাজতে ইসলামের নেতৃত্বে ‘সমমনা ইসলামী দল’ নামে জোট গঠনhttps://starnews.com.bd/"
+    },
+    {
+        "id": "7e137b221b",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZVGE2Wk1WT2ZpRWV4dXl1ZEVnQVJERlZCdmNENG1sNUJzdU9wOXk0YjBDMDl5VHJIc3JodV9MT05BdFBER1p5TTY4eFIweldqTjdrdHkxV1p0UlNXRlE?oc=5",
+        "title": "'আসছে বছর আবার হবে’: দুর্গার বিদায় বেলায় সিঁদুর খেলা - bdnews24.com",
+        "category": "Google News BD",
+        "time": "Wed, 21 Oct 2026",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "details": "'আসছে বছর আবার হবে’: দুর্গার বিদায় বেলায় সিঁদুর খেলাbdnews24.comকক্সবাজার সৈকতে লাখো মানুষ, ৪৫ মিনিটে ৩৮০ প্রতিমা বিসর্জনপ্রথম আলোকৈলাসে ফিরলেন 'দুর্গতিনাশীনি'bdnews24.comবিসর্জনের মধ্য দিয়ে শেষ হলো শারদীয় দুর্গোৎসবদ্য ডেইলি স্টার বাংলাঢাকেশ্বরী মন্দিরে নাচলেন শাওন, মাতলেন সিঁদুর খেলায়Dainik Shiksha"
+    },
+    {
+        "id": "7cd2d8740b",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LOWNabXJGNE9XZGJId0J4X25TdzZIa0IwN3k4SW1hdFBiRUxHZGgzT0hKSXJJY3g4NTFEdlh1Y2hxeElsY1lWMWlxa1cwbEFEYVlzSnFSSElOVXZ6ZFBLWXc3TQ?oc=5",
+        "title": "হুমকি, হামলা, দুজন খুন! সালমান-টাইগার ছাড়াও টার্গেট ১২ তারকা - Jagonews24",
+        "category": "Google News BD",
+        "time": "Thu, 22 Oct 2026",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "details": "হুমকি, হামলা, দুজন খুন! সালমান-টাইগার ছাড়াও টার্গেট ১২ তারকাJagonews24টাইগার শ্রফের গাড়িতে গুলির ঘটনায় গ্রেপ্তার তরুণের মা বললেন, ‘ছেলেকে ফাঁদে ফেলে এই কাজ করানো হয়েছে’প্রথম আলোটাইগার, সালমান ছাড়াও বিশ্নোই গ্যাংয়ের নিশানায় যেসব তারকাbd-pratidin.comTiger Shroff Firing Case: সামনে এল হাড়হিম CCTV ফুটেজ, ব্যাগ ভর্তি করে কী নিয়ে হোটেল থেকে বেরচ্ছে শুটাররা? নিমেষে ভাইরালNews18 Bengaliএবার টার্গেট রণবীর কাপুর, যা জানা গেলRTV News"
+    },
+    {
+        "id": "95e112d9a9",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QVE5UcHFmUS1pazhubWJLN1BrTWwyN1FmcktZbm1VNC1sLWdkei1LZ3lMTlpFc05rUWc0TmU4UmVwZ2d4TnBXb2haejl6NHI2amxLVlNkVTVlNF9DNzE3bS1LR2IwVnNm0gF2QVVfeXFMTjNLWVc5c05LSnhsUWVEN1VHa1lESjhlR1ZVVEVOcFZnYkV0UXhOZndPRHBxeU5uQkNXaHNVRS1RUDlrMG5IUEk4cFpzYUZMOWEwWVJPYUJacHRVaWdJdnJ0Z0wxWEkweXdJWnRyNjA3R29iaFBYQQ?oc=5",
+        "title": "সাজেকে পর্যটক ও আইনশৃঙ্খলা রক্ষাকারী বাহিনীর ওপর ইউপিডিএফের গুলিবর্ষণ: আইএসপিআর - প্রথম আলো",
+        "category": "Google News BD",
+        "time": "Thu, 22 Oct 2026",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "details": "সাজেকে পর্যটক ও আইনশৃঙ্খলা রক্ষাকারী বাহিনীর ওপর ইউপিডিএফের গুলিবর্ষণ: আইএসপিআরপ্রথম আলোঅবরোধের মধ্যে সাজেকের পথে ‘সশস্ত্র গোষ্ঠীর’ সঙ্গে সেনাবাহিনীর গোলাগুলিbdnews24.comসাজেককে ঘিরে ‘কী হচ্ছে’, প্রশ্ন শফিকুর রহমানেরদ্য ডেইলি স্টার বাংলাশনিবার রাঙামাটি-খাগড়াছড়িতে আধাবেলা সড়ক অবরোধBanglanews24সাজেককে কেন্দ্র করে কী হচ্ছে, প্রশ্ন শফিকুর রহমানেরThe Daily Ittefaq"
+    },
+    {
+        "id": "be91b85603",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UNUJzUlV0cnJPZkRKZzZzTEZDNnEzSXJyZUg2c2hlTTU3QW9UMWRodDdsYnNYVnhLZWcwR0k1SW9wRzl3OW9YRzB5ei1qV1g3NjI4d2c3emo3QQ?oc=5",
+        "title": "ইশরাককে নিয়ে প্রিন্স মাহমুদের আবেগঘন পোস্ট - Jugantor",
+        "category": "Google News BD",
+        "time": "Thu, 22 Oct 2026",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "details": "ইশরাককে নিয়ে প্রিন্স মাহমুদের আবেগঘন পোস্টJugantor‘প্রধানমন্ত্রী মন্ত্রিসভা থেকে পদত্যাগের নির্দেশ দিয়ে এযাবৎকালের সেরা পরামর্শটি দিয়েছেন’The Daily Ittefaqজবাবদিহির কঠোর বার্তা, নাকি অতিরিক্ত শাস্তিদ্য ডেইলি স্টার বাংলাইশরাকের জন্য আরো বড় দায়িত্বের পথ খুলতে পারে: মাহদী আমিনDainik Shikshaইশরাক হোসেনের উত্থান ও পতনThe Business Standard"
+    },
+    {
+        "id": "999594167b",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BRmwwMEhnYVkwbGlTbWwtR0xVZU1fMkRkTHdJaFYzZVFnQlFrcVpBNXRPYVFRZXlEUEw3WVdXWW51TldzakRtY0tTWms4azE1V1dhZnFuaUNHTzZsME1laEotdzc3UUV60gF2QVVfeXFMUFp1T2JXRm1nZXpuWHFkbnNSXzZUb05TajBkX1V1TkNyT0k0ajY2alVDdk1ka3R4M0pCa05KS1RSQnZ2SWs1YktNU0xyWXF6S2dfZUQ3dWN2YzJFb2JhVDU0QXRjTWpuMVdSNEtFQWRnYlNOZmZ3Zw?oc=5",
+        "title": "প্রধানমন্ত্রী হিসেবে প্রথমবারের মতো খুলনা সফরে গেলেন তারেক রহমান - প্রথম আলো",
+        "category": "Google News BD",
+        "time": "Thu, 22 Oct 2026",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "details": "প্রধানমন্ত্রী হিসেবে প্রথমবারের মতো খুলনা সফরে গেলেন তারেক রহমানপ্রথম আলো‘সুতারখালীর ভাগ্যে নিশ্চয়ই ভালো কিছু আছে’প্রথম আলোপ্রধানমন্ত্রীর সঙ্গে হাত মিলাইছি, জীবনে আর কী লাগে : বাদাম বিক্রেতাbd-pratidin.comখুলনা হয়ে মোংলায় প্রধানমন্ত্রীদ্য ডেইলি স্টার বাংলাসুন্দরবন দেখলেন প্রধানমন্ত্রী, বনে নামল না হেলিকপ্টারbdnews24.com"
+    },
+    {
+        "id": "887d5da29a",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjVV9KaWRMNndPN3ZpbDVTTWJHN25DUWEzTHJGR05ub2daS1pZNFlkWmc1T0lSWGR6N3hPaVloWG9FOUFPZnI0T1VlRGYycjlWYk0xRW4wdDNrMl8xcUtpcDM4ak1Bbmh2YURuMEJtQ19vanM?oc=5",
+        "title": "ফের কমল স্বর্ণের দাম - Amader Barta",
+        "category": "Google News BD",
+        "time": "Thu, 22 Oct 2026",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "details": "ফের কমল স্বর্ণের দামAmader Bartaসোনার দাম আজ আবার কমল, ভরিতে ১,৬৯১ টাকাপ্রথম আলোকমলো স্বর্ণ ও রুপার দাম, ভরিতে কত?Bangla Tribuneদেশের বাজারে ফের স্বর্ণের দামে পতনThe Daily Ittefaqসোনার দাম আরও কমলbdnews24.com"
+    },
+    {
+        "id": "6e31021b78",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGZ2VZQU5pZXc5VUYycktHOUgxNFBWdURhaUp0UFAyX0NBR0tlbFE0QUlvZ3BabmNiZlUzOUhVOG93UFM4LVUxVG14OW96bFltM2l3ZTh3VTg0Q3dXSVdF?oc=5",
+        "title": "এবার সৌদি আরবের আরামকো তেল শোধনাগার এবং দাম্মাম বিমানবন্দরে পৃথক হামলায় নিহত তিনজন - BBC",
+        "category": "Google News BD",
+        "time": "Thu, 22 Oct 2026",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "details": "এবার সৌদি আরবের আরামকো তেল শোধনাগার এবং দাম্মাম বিমানবন্দরে পৃথক হামলায় নিহত তিনজনBBCসৌদিতে গরম ও ধোঁয়ায় জ্ঞান হারান দুই বাংলাদেশি, পরিচয় শনাক্তপ্রথম আলোসৌদি বিমানবন্দরে হামলায় ২ বাংলাদেশি আহতbdnews24.comসউদী আরবে বিমানবন্দর ও তেল স্থাপনায় হামলা, নিহত ৪দৈনিক ইনকিলাবদাম্মামের কিং ফাহাদ বিমানবন্দরে হামলায় নিহত ১, আহত ৮দ্য ডেইলি স্টার বাংলা"
+    },
+    {
+        "id": "9a7e1d27d0",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObkc4eGl5c2NYQWdnSkF5U2JSUXFhQ3FGZEg2OGdzdzBUVlk5d0U4ODZFaUF5T0F1Umpud0NHRnVpWGdvbmQ5cVlJNElVelcxTkVrZ0ozdjh0eUo4SDV5WmJ4WlBRSE5neHVfTHZobXdxOVdXbDlhWmo5LXpjVjd4bg?oc=5",
+        "title": "পিএইচপি কী, কেন বিশ্বজুড়ে সাইবার নিরাপত্তা সতর্কতা - Banglanews24",
+        "category": "Google News BD",
+        "time": "Thu, 22 Oct 2026",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "details": "পিএইচপি কী, কেন বিশ্বজুড়ে সাইবার নিরাপত্তা সতর্কতাBanglanews24পিএইচপির ত্রুটি ঠিক করতে বিশ্বজুড়ে দৌড়ঝাঁপ, লাখ লাখ হ্যাকিংয়ের চেষ্টাপ্রথম আলোবিশ্বজুড়ে সাইবার হামলার শঙ্কা, জরুরি সতর্কতা জারিদ্য ডেইলি স্টার বাংলাপিএইচপির নিরাপত্তা সংকট: ত্রুটি জানা ছিল দুই বছর আগেইbdnews24.comইন্টারনেটে বড় নিরাপত্তাত্রুটি, বিশ্বজুড়ে ওয়েবসাইট বন্ধদৈনিক ইনকিলাব"
+    },
+    {
         "id": "01196a9713",
         "url": "https://www.bbc.com/bengali/articles/cmrrye0e2dwno?at_medium=RSS&at_campaign=rss",
         "title": "রক্তে শর্করার মাত্রা হঠাৎ বেড়ে যাওয়া কেন সব সময় খারাপ নয়",
@@ -1222,131 +1348,5 @@
         "time": "Tue, 20 Oct 2026",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "details": "মহানবমীতে যজ্ঞের ধোঁয়া, ঢাকের বাদ্যে সিদ্ধেশ্বরীতে দুর্গার আরাধনাbdnews24.comমহানবমীর পূজায় শান্তি ও সম্প্রীতি কামনাপ্রথম আলোনবমীর পূজা শেষ, কাল বিজয়া দশমীBanglanews24মহানবমী আজ, শুরু দেবীর বিদায়ের ক্ষণগণনাThe Daily Ittefaqদুর্গাপূজা: প্রকৃতির মাঝে ঈশ্বরকে খোঁজার প্রাচীন দর্শনDainik Shiksha"
-    },
-    {
-        "id": "c69c99b0d3",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmYW1hT1ZSVlhCOGRhNkJJaUlfOTladE9pSTdWYWJfOWxLUzRxMmRhZFVjX2s0ZHlhdWxVem9rRzhGVXZVU0l4bGJ6ZVJ3TWFQdW9DWHI4M3dTaklsdUNXUGM5TUTSAXJBVV95cUxNLXVCUFViNVBuczQzbDlabXhhVFFTRmhkdmx2aTRQb2lRM2lObmdibHNSY3dvb1YyVUhvelN4dmJIbzN2bW5aUjE4X284bGg1bWVhM2JIMjZOOXRoR1BudzlKR29hdWZxQzdXaHpiQTlCNXc?oc=5",
-        "title": "নাটোরে দুর্ঘটনা: নিথর দেহ, স্বজনের কান্না - প্রথম আলো",
-        "category": "Google News BD",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "details": "নাটোরে দুর্ঘটনা: নিথর দেহ, স্বজনের কান্নাপ্রথম আলোনাটোরে বাস-ট্রাক সংঘর্ষে নিহত ১২দ্য ডেইলি স্টার বাংলাবাসে যাচ্ছিলেন ব্যবসার কাজে, পথে ট্রাকের সঙ্গে সংঘর্ষে প্রাণ গেল তাদেরদ্য ডেইলি স্টার বাংলানতুন চাকরিতে যোগ দিয়ে বাড়ি ফেরা হলো না আনোয়ারেরThe Daily Ittefaqনাটোরের সড়ক দুর্ঘটনায় শোকাহত তাইজুলBanglanews24"
-    },
-    {
-        "id": "6355757136",
-        "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxOWUp3eGljdDhGU0hrTXFUQmlHUWs2c3dPUF91RUtrbmRVNlNYWnVxc3hpdnVkYm9fZnh4NkxKd3NfWkxiT1QxRFpOTV8xcmZQSHA2TUExT0N6VVlyNWJTNHAtS0d4cXdjaWFNeDJlUnNHR2EyOGdRRTZGbE5odXF0SWg0M1doZUQ3SzhzUnFCWGh1YlVCQ1lqUE8tcnJlRjAzTG5Ec01kcWJwNWRNckRidFhST2NFR3pWRUdLMm93QWRfVEZUUnJTUlhoQ3pOSlRuMmhuN2Y2WUFScTFfY0Vib3pvelA4ZjdRcWJTenkwam0xbzZ4eGJuZmtjMEZINWpfV3FCeUVIMHVXVHEtLTAzMF9iaG5ZSDVDQVl6YnRpV0dRVGpCM3BySU1NeklsbGI4M2ZXOF84UlhId3ozR2tvRG11UDBNVnB4WWFKbDZnTm50TUVvRm9MQ2lLeVRUVkdPdmJWQVhtUzNaVHBhaGNxcXlncGl6SVEwWDF1YUZyb20xUzBtRHpCNzVwUzctYi1MWklyX0Y5SERSWmo1aXhVR0QySUFSS3VvTWpmVFVKSHJDNk5ac3VzOENWTkM4QlJJMENRRWQ4c3FHVXVPSWdTQmJ0d1ZwSy05YXZJaUxXT0l5UUYxSW1sUFdjaVIybmdhVTg2NXJKZEVvV2JTWVpLbmRUYVRUUDJBekNLRm5xOVpLMFdHZ1NZc0g2U0dOclE1VjZZLTNtMl9iNVlwWmlweGdUWU9lSVlZN3ozR2YzRC1YVG52cDNQZEFzTzFUZzFDakF3WEQwajd0YkZNWUdsRGFmdHl5OGJOWUpDNk5FYU1rYVBYVUdnZTlJeDVuS1NkZ3JOS1NHUdIBjAVBVV95cUxPU1M2cWV3d2pUYXlWODhrUXBPc3FxR3pVcEVlNlpLVDVmeTN2eVB4dmx0RW0xMTJTcURuSWlwTTYtcmNrRXByMTB0RG8wLUQxZ3Y3ZHFBaFUxNk1IbGxGbHBaSHRsSThNbWxQWkFmd3NwcUJQWk5UZlZNNzRmR1F0dHZKc1V4TkFFeGVJZUU5X1ZtQUhjWGU5VDBzZ29CeGFpalJBdU1PU1FqVHRvMS1CcDFPU0J3ZUxad2ZCbU9ia21fOTZDSzZ3dXRHNXgzQ0YxWVlzcDl4N3JfOF81NVFMMFdmZUxHMTdNZ3J4UnRMNVJyWjNqZEhoLU04NVhxSjhkVVlrUnUwOWtianlYdWI0Zy1Tc25VRVpTTmU5THNRVjBBeEJJVmNXUENmbTc0WXJhM0tXTmV6TTVNZmhoc19memxIbGRER0Q1NmlhRFNkc1JueGJBUWF4dkhNZm1TM3U2NXpuWXpsdUw3X3JsUE9rN1ZidFRZSmFSZkZDVGZMN0RQWlVENklXVG9Fd1hqN1lWVzJTRkhCeVdyaUZzT2JWSUpfdVZiVnVIbWtEdUpkUXZJdXdTTGFpRHdrQlVXN01Hc21UbDdDMFRYY1FRdlZhbUhtWlY1TENVYkFKTDBKbHh4Y0p4X3o4U0tfb282dXFkLWhJMWJvcGJobnBGRGdva0ZVQjFoVmFXSHpUd0ctOWxFVEpMTm1xYmNRSkMyM0RtdllCcTBjdUttODhlWjlYdlpieDNlcERPZTJaNkp4ckpad1otUFJmb1ZxaXlKLVkyWUtWVDlYUERzcEZzdndYcXljSFNqaTJXVTIzWldHQTJUcWMyWExhc1I2YXU2Z0kxOG1uSHlIOENhMnlN?oc=5",
-        "title": "পূজামণ্ডপ পরিদর্শনে সৈয়দপুর পৌঁছেছেন প্রধানমন্ত্রী - Bangla Tribune",
-        "category": "Google News BD",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "details": "পূজামণ্ডপ পরিদর্শনে সৈয়দপুর পৌঁছেছেন প্রধানমন্ত্রীBangla Tribuneপ্রধানমন্ত্রী রাজশাহীতে পৌঁছেছেন, যোগ দিয়েছেন জনসভায়প্রথম আলোরংপুরের রাধা গোবিন্দ ধর্মসভা মন্দিরের পূজামণ্ডপে প্রধানমন্ত্রী, ভক্তদের উচ্ছ্বাসBangla Tribuneজে এম সেন সহ দুই ভেন্যুতে নেওয়া হয়েছে সর্বোচ্চ নিরাপত্তা: সিএমপি কমিশনারBanglanews24রোজা শুরুর সম্ভাব্য তারিখ প্রকাশকালের কণ্ঠ"
-    },
-    {
-        "id": "da59755b6e",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNb1RTem83dzNJcERoa2k5S0k5bXlFaDN0Q09YWERrY1R0VXJEVXl1bF9yQXBzZVFib2J4RXRjMmF4QTE1ZHFBWEhKV0tiTnpZYWhfWlc2OVVZNC1PMEJpUjMxQWFQWUU5SkpDamVnVFF2dFZEYUp2b1BtVk1yaklISUlCN2xlMmNray1oLXRjeURIaTZGN3hHYS04SmthVU01bThXajZmZ2wyMW9zRG9LYzN2d1ZPanQ2THNEcXRheXB2Rl9uMkI3TkR5MGJqbkgzSlAxRXAwRkJoa1ptS09KTXB3QktMOURoNDFkb1JQeWs4NlJybG44bUQyWEdrVDZiT3ZJ0gGIAkFVX3lxTE9WU1hqQ2xmTmx4ak1KNUlla2dVZzFUYThleUdXQ0oyWnlWQVUyMTRxVkVQUkhZRmp6ckh5V2VVcVktUGRsekN6aWNydUNWRGJjWmUtSGg4NnFsaGhxYnlFSzJyc0gwcmVWTVhyV3FJV1NWM1U5dDJ5SXBYMWZBYjVqeGxObUxlUW13WE5PMXh2VkhaZ05nTUZlTjRkLXdSYVZWMjZqSTZvNmdjMkJrOXdyNFo0eXBQQmtvMXI3cm4xVkpTeFlXc3ljVWg5SWxRUzhpTGNWOEJxeTRBaWhUVXRXT0pESklyaVo3cVVacUJoNkxVem1VTEV1TmRIWU9EQTd5UG9nck5JZg?oc=5",
-        "title": "CJP Protest : আইনের প্রতি কোনও শ্রদ্ধাই দেখাননি, বিচার বিভাগীয় হেফাজতের মেয়াদ বাড়ল - ABP Ananda",
-        "category": "Google News BD",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "details": "CJP Protest : আইনের প্রতি কোনও শ্রদ্ধাই দেখাননি, বিচার বিভাগীয় হেফাজতের মেয়াদ বাড়লABP Anandaমোদি ভারতের সবচেয়ে বড় কাপুরুষ, দুর্ভাগ্যবশত তিনি প্রধানমন্ত্রী: অভিজিৎ দীপকেThe Daily Ittefaq‘এখানে ন্যায়বিচার নেই’, আদালতের সিদ্ধান্তে ক্ষোভ সিজেপির সৌরভ দাসদৈনিক ইনকিলাব'জাতীয় পতাকা ওড়ানোই অপরাধ...' আশুতোষ-সৌরভের জেল হেফাজতের মেয়াদ বাড়তেই বড় বার্তা অভিষেকের!News18 Bengaliজামিনে মুক্তি পেলেন ককরোচপ্রধান দীপকেদ্য ডেইলি স্টার বাংলা"
-    },
-    {
-        "id": "da28cc6512",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iNUxqTi1PQ2RwYkhrTFJpOS14cmVuaU5yZXJYQnpxc1JQNmhCa2ZWQW5LaVZrUHJpbzZMNXhTOERxbHlDYjZqZ1FodXU3cl8yZHhUcjNYN1d5d1hiTGtJQ2l4ak5GQdIBc0FVX3lxTE8yNHAyR1NBaHBXa2JDakVhTllSWGRiT0MtMG5FMjZUNEJsWHNsUVhiTjI2RHRCV2JrbkZ1R1lBaUNMcEE4WVFqa3U4ZnYtUC1rYXJzVF9JRS12WGVKM1plRzVGTWd5T1Q3bHdtSFROZmN4dTA?oc=5",
-        "title": "ইসরায়েলে গোপন সফরে হেগসেথ, নেতানিয়াহুর সঙ্গে কী কথা হলো - প্রথম আলো",
-        "category": "Google News BD",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "details": "ইসরায়েলে গোপন সফরে হেগসেথ, নেতানিয়াহুর সঙ্গে কী কথা হলোপ্রথম আলোট্রাম্প সমর্থন দিলেও নেতানিয়াহুর পক্ষে নন মার্কিন ভাইস প্রেসিডেন্টbd-pratidin.comনির্বাচনের এক সপ্তাহ আগে ট্রাম্পের সমর্থন পেয়ে উচ্ছ্বসিত নেতানিয়াহুDaily Naya Digantaইসরাইলের সর্বকালের সেরা বন্ধু ট্রাম্প: নেতানিয়াহুJugantorগোপন সফরে ইসরায়েলে গিয়ে নেতানিয়াহুর সঙ্গে বৈঠক হেগসেথেরJagonews24"
-    },
-    {
-        "id": "6fea5010f8",
-        "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxNY2d6UEV0cnRsLW8xOWZLbmxFSkVvVlVHX21NQnVXY1Z1RzdUejBkQ1Uxdjc5WDVHVHFDT0lHd0FKZjZnT2JJM2RLaGVkY05SYzZnckQ5WUpMSktZZjRiajdKeHdJaWxGQ3JIcm9PaVduaElLeU5za29lcy1DNW9vcVJINWVuWkw3VmdVQTdwYjhZN013dDVCR0p0Z0JvT2lTeEdVSGcxSE5rUWE1b2JUWXd3aGxzeUhGYmtONnZrVVhMRjNXVGFUeDdQb2NXYm5JOWhFcmQ5NDg1YndsRzR3WlB3ck44OXlLN0FHSkktQmV1bTVnY1MxRXhpNjN1dlU5MHV1a0otYjB6SW9mdHVUeTlXaXdPVVR2VUI3N09DZDJzSDBSNmVCSFhtbER4RHJxYUdtbnZydDB6VUpZZzdZTWJKNWoxM1F6U2M2bGh2QnROUTBvQ0c2eW0xLVJsN21DUDVvUnJtckNoSU5Qc3BKSm9zR2I4WkxUVHkwUnIxalhKVDlPSXNyWmFYN2wyeG9OS0c1M2c4emstYWJZdDN4RnJ1SnZ3UWdDaERPYWxIQ2ltaXNObzZzMUxtdjZYZnlfRVBqNktSZFNCNTFXbUs4TW1TVXZSRkdvai1jVFFSZm01YXdZV3Z4ZHBFbl81WGcwd0FNZmQySFdMTzVrbTgzS0xfX2MzSUFJUE81TVR2aHljd2ktNnplUmY5QzZ6elJ3M3FRNmRYanE5UGUwSHQ1V3J0c2JaOGx3UmYySHFKVEQ1NFlSdHZoV2xNc1N2dzRQbVNFMnV30gHbBEFVX3lxTE10SGZad25KSmVnNU96TXZOMUFfaVBDWlpCbFhlZ2lrYTVleHR6aVpIODQwX2pGa0VtY1dNY1UwcERUVVNhTG9zOTRMaVYtRlp4NGcwS2N3VHpCRTQ4cHdFNVhrR2tsRkxVWFdYZTc1WG9BQ19rV0pPZm1HS3lqQjVVZ0RCXzA2WURUeFd6OFJLemJXX2M3MGhuM3R1TExMdVBwZEFQZ3JqTzdzbGRsaThlcUgxX193ck8tU3lDNnFuQ2Q2X1YzcjZnLVloN284bm9iRjRJVW5ObFAxbDJpZHRTbDAwSGxGbXduc2pjWVhrSnAzbzZ6WG9EbFQzODYyVmlPbGl2VzlFLWlVTnFrV2RUaU8zSDdoOC0zejNXNkZFWjB3bVl6eTJzWWpPSnRVek9sTTJ6bEVfNTBMQzBHVVhPZG1yYmtKY1JJZFhJR2M1aF94aEdIWEVTTmk3VFp3VEo4bXBNa2dYQWVzTHdPLVBXLTJab3FiQWpqQ2tIeFd1cExsVHkzZktOVmJnMmpiUlM2ZWg2ZndmNVhrOU9sOEVrenUtSDZkRmpDVF9ocG82RFFTY0dYMTR0T0xFOHNNMmNPbGV1Sml2X3AzTDdyZDdPZ2MzT3pNV1hHZjlRWFBCdlBqUTJrWGs1ZUhDUldGVFRvMWt6V3k4VVFkX1FRV2ZtU2dkd3lkeTFlQ0YteFRlUTQ5aDd2QmdpRDhhMmVMLUtjS09EekdCSGpOQWdSZUFQUmtGLUlPUzN2U2NiVTNzMlpLcmhHRXlXVjVBT1hva3dfNTM5cHRQV01lQQ?oc=5",
-        "title": "এবার জেন-জি বিক্ষোভে উত্তাল ইন্দোনেশিয়া, মোতায়েন ৯ হাজার পুলিশ - The Daily Ittefaq",
-        "category": "Google News BD",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "details": "এবার জেন-জি বিক্ষোভে উত্তাল ইন্দোনেশিয়া, মোতায়েন ৯ হাজার পুলিশThe Daily Ittefaqএশিয়ার আরেক দেশে ছড়িয়ে পড়েছে ‘জেন-জি’ বিক্ষোভMTnews24এবার জেন-জি বিক্ষোভে উত্তাল ইন্দোনেশিয়া, জাকার্তায় মোতায়েন সাড়ে ৯ হাজারের বেশি পুলিশPuber Kalomইন্দোনেশিয়ায় প্রেসিডেন্টের ক্ষমতার দুই বছর পূর্তিতে বিক্ষোভের আশঙ্কাChannel i Onlineশিক্ষার্থীদের বিক্ষোভে উত্তাল ইন্দোনেশিয়া, সামাল দিতে ৯ হাজারের বেশি পুলিশ মোতায়েনChannel 24"
-    },
-    {
-        "id": "1b81d7e0bb",
-        "url": "https://www.bbc.com/bengali/articles/c5vgj4p0nv83o?at_medium=RSS&at_campaign=rss",
-        "title": "ফ্রান্সজুড়ে দাঙ্গা, প্যারিসের কিছু জায়গা এবং অন্যান্য শহরে কারফিউ জারি",
-        "category": "BBC বাংলা",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://ichef.bbci.co.uk/news/1200/branded_bengali/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg",
-        "details": "ফ্রান্সজুড়ে দাঙ্গা ও লুটপাটের ঘটনার পর সেন্ট্রাল প্যারিসের কিছু অংশসহ দেশটির বিভিন্ন শহরে রাতে কারফিউ জারি করেছে কর্তৃপক্ষ।\n\nপ্যারিস পুলিশ জানিয়েছে, স্থানীয় সময় রাত ১১টা থেকে সকাল ৬টা পর্যন্ত প্লাস দে লা রিপাবলিক ও লে আল শপিং এলাকায় কারফিউ থাকবে। সপ্তাহান্তে এসব এলাকায় বিক্ষোভকারীরা জড়ো হয়েছিলেন।\n\nএ ছাড়া শহরের কেন্দ্রীয় এলাকার আরও কয়েকটি স্থানে অনুমতি ছাড়া জমায়েতের ওপর নিষেধাজ্ঞা দেওয়া হয়েছে।\n\nদক্ষিণের মার্সেই, বোর্দো, নিস ও লিওঁ সহ বিভিন্ন শহর এবং উত্তরের লিল ও অন্যান্য শহরে তরুণদের চলাচল ও জনসমাগম সীমিত করার লক্ষ্যে আংশিক কারফিউ ঘোষণা করা হয়েছে।\n\nএর আগে স্বরাষ্ট্রমন্ত্রী লরঁ নুনেজ স্বীকার করেন, কয়েকটি শহরে পুলিশ পরিস্থিতি নিয়ন্ত্রণে রাখতে পারেনি।\n\nসহিংস পরিস্থিতি মোকাবিলায় পুলিশের প্রস্তুতি নিয়ে বিরোধী রাজনীতিকেরা তার কঠোর সমালোচনা করেছেন। এ ঘটনায় তিনি পদত্যাগের প্রস্তাব দিলেও প্রেসিডেন্ট এমানুয়েল ম্যাক্রঁ তা প্রত্যাখ্যান করেন।\n\nগত মাসে শিক্ষার্থীদের উন্নত স্কুল পরিবেশের দাবিতে এই বিক্ষোভ শুরু হয়েছিল। তবে পরে তা আরও বিস্তৃত হয়ে বিভিন্ন দাবি আদায়ের আন্দোলনে রূপ নেয়। সপ্তাহান্তের বিক্ষোভে শ্রমিক সংগঠন ও বিভিন্ন প্রতিবাদী গোষ্ঠী যোগ দেওয়ায় বিক্ষোভকারীর সংখ্যা আরও বৃদ্ধি পায়।\n\nকর্মকর্তারা জানিয়েছেন, আড়াই হাজারের বেশি লোককে গ্রেপ্তার করা হয়েছে। বার্তা সংস্থা এএফপি'র তথ্যমতে, বিক্ষোভ নিয়ন্ত্রণে পুলিশের গ্রেনেডের আঘাতে এক বিক্ষোভকারীর হাত উড়ে গেছে। প্রায় ১০০০ পুলিশ কর্মকর্তা আহত হয়েছেন।\n\nসোমবার সংকট নিয়ে এক বৈঠকের পর প্রধানমন্ত্রী জানান, যেসব এলাকায় প্রয়োজন, সেখানে কারফিউ জারির ক্ষমতা স্থানীয় মেয়রদের দেওয়া হচ্ছে। তবে কোন কোন শহরে এই ব্যবস্থা কার্যকর হবে, তা তিনি নির্দিষ্ট করে বলেননি।\n\nপ্রধানমন্ত্রী সেবাস্তিয়ান লেকর্নু দেশটিতে জরুরি অবস্থা জারির সম্ভাবনা নাকচ করেননি। তিনি বলেন, দাঙ্গায় ক্ষতিগ্রস্ত এলাকাগুলো পুনরুদ্ধারে সরকার অর্থ বরাদ্দ দেবে। তবে সহিংসতার জন্য দায়ীদের কাছ থেকেই এই অর্থ আদায় করা হবে।\n\nলেকর্নু বলেন, \"সম্পত্তির ক্ষতি যারা করেছে, তাদের কাছ থেকে ক্ষতিপূরণ আদায়ের ব্যবস্থা করতে একটি আইন করা হবে।\"\n\nদাঙ্গা ও লুটপাটের কারণে যারা কাজে যেতে পারেননি, তাদের জন্য আংশিক বেকারত্ব ভাতার ব্যবস্থাও ঘোষণা করেছেন তিনি।\n\nএদিকে, নুনেস বলেছেন, সম্ভাব্য মূল হোতাদের শনাক্ত করার জন্য ২০০ জন তদন্তকারী সিসিটিভি ফুটেজ বিশ্লেষণ করছেন।\n\nবিবিসি বাংলার সর্বশেষ খবর ও বিশ্লেষণ এখন সরাসরি আপনার ফোনে।\n\nবিবিসি বাংলার সাথে থাকার জন্য ধন্যবাদ বিবিসি বাংলার হোয়াটসঅ্যাপ চ্যানেল"
-    },
-    {
-        "id": "b55c3c5c45",
-        "url": "https://www.bbc.com/bengali/articles/c6x2q98r4w1lo?at_medium=RSS&at_campaign=rss",
-        "title": "রাজনৈতিক সরকারের সময়ও মব থামছে না কেন, নেপথ্যে কী?",
-        "category": "BBC বাংলা",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://ichef.bbci.co.uk/news/1200/branded_bengali/6076/live/0f0ac0e0-cbb8-11f1-a64c-550be9e3c66b.jpg",
-        "details": "দেশে একের পর এক ঘটে চলেছে দলবদ্ধ বিশৃঙ্খলা বা মবের ঘটনা। কখনও ধর্মের দোহাই দিয়ে প্রকাশ্যে করা হচ্ছে খুন, তো কখনও ব্যক্তিস্বার্থে গুড়িয়ে দেয়া হচ্ছে আস্ত স্বাস্থ্যসেবা কেন্দ্র।\n\nসবশেষ ফেসবুকে লাইভ করে দফায় দফায় মারধরের ঘটনায় সাতক্ষীরার শামীমের মৃত্যু ব্যাপক আলোচনা সৃষ্টি করে, যেখানে স্থানীয় জামায়াত নেতাকর্মীদের সংশ্লিষ্টতার অভিযোগ ওঠে।\n\nএর কয়েকদিন আগেই রাজধানীর এক স্বাস্থ্যসেবা কেন্দ্র গুড়িয়ে দেয়ার ঘটনায় সামনে আসে বিএনপি থেকে নির্বাচিত নারী সংসদ সদস্যের নাম।\n\nএছাড়া ব্যাংক, বিশ্ববিদ্যালয়, সচিবালয়, আদালতেও একের পর মবের ঘটনা হয়েছে গণমাধ্যমের শিরোনাম।\n\nমানবাধিকার সংস্কৃতি ফাউন্ডেশনের তথ্যমতে, ২০২৬ সালের ১৭ই অক্টোবর পর্যন্ত ৫৩৭টি মবের ঘটনা ঘটেছে। এসব ঘটনায় মারা গেছেন ২৫৬ জন আর আহত হয়েছেন ৫৭৫ জন।\n\nসংগঠনটি বলছে, গত বছর মবের এই সংখ্যা ছিল ৪২৮টি আর ২০২৪ সালে ছিল ১৬৯টি।\n\nঅন্তর্বর্তী সরকারের সময় মবের ঘটনা প্রকট হয়ে ওঠে। নির্বাচিত সরকারের সময় তা কমে আসবে মনে করা হলেও এখনও তাতে লাগাম টানা যাচ্ছে না। বরং মব একটি রাজনৈতিক চেহারা পাচ্ছে বলেই মত মানবাধিকারকর্মীদের।\n\nতারা বলছেন, সম্পত্তি দখল থেকে শুরু করে, ধর্ম অবমাননার মতো নানা কারণে ঘটছে এসব মবের ঘটনা, যেখানে আবার বেশিরভাগ ক্ষেত্রেই অভিযোগ উঠছে সরকার ও বিরোধী দলীয় নেতাকর্মীদের রাজনৈতিক সম্পৃক্ততার।\n\nমানবাধিকার সংস্কৃতি ফাউন্ডেশনের প্রধান নির্বাহী সাইদুর রহমান বিবিসি বাংলাকে বলেন, সম্পত্তি দখলের জন্য মব তৈরির ঘটনাগুলোতে ক্ষমতাসীন দল বিএনপির নেতাকর্মীদের সংশ্লিষ্টতা দেখা যায়।\n\nঅন্যদিকে ধর্মকে কেন্দ্র করে মব সৃষ্টির ঘটনায় প্রধান বিরোধী দল জামায়াতে ইসলামীর সম্পৃক্তার বিষয়টি সংগঠনটির মনিটরিং রিপোর্টে উঠে এসেছে বলে উল্লেখ করেন তিনি।\n\nযদিও এমন দাবি অস্বীকার করছে প্রধান বিরোধী দল জামায়াতে ইসলামী। তারা বলছে, দেশের আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণের দায়িত্ব সরকারের। একইসাথে যেকোনো ঘটনায় জামায়াতে ইসলামীকে 'দায়ী করার প্রবণতা দেখা যাচ্ছে' বলেও বলছে দলটি।\n\nএদিকে সরকারের দিক থেকে বারবারই মব ঠেকানোর হুঁশিয়ারি দেয়া হলেও কার্যত তার কতটুকু বাস্তবায়ন হচ্ছে, সেই প্রশ্ন রয়েছে।\n\nতবে স্বরাষ্ট্রমন্ত্রীর দাবি, যেকোনো ঘটনায় সরকারের তাৎক্ষণিক ব্যবস্থা নেয়ার কারণে মবের সংখ্যা কমে আসছে।\n\nবিবিসি বাংলার সর্বশেষ খবর ও বিশ্লেষণ এখন সরাসরি আপনার ফোনে।\n\nবিবিসি বাংলার সাথে থাকার জন্য ধন্যবাদ বিবিসি বাংলার হোয়াটসঅ্যাপ চ্যানেল"
-    },
-    {
-        "id": "cad48994cf",
-        "url": "https://www.bbc.com/bengali/articles/cwm2385ed388o?at_medium=RSS&at_campaign=rss",
-        "title": "পত্রিকা: 'সুন্দরবনের পাশে এলএনজি টার্মিনাল করার পরিকল্পনা'",
-        "category": "BBC বাংলা",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://ichef.bbci.co.uk/news/1200/branded_bengali/3cd1/live/5ea68c00-cc27-11f1-a77d-d3d55113d566.jpg",
-        "details": "'সুন্দরবনের পাশে এলএনজি টার্মিনাল করার পরিকল্পনা'সমকালের শিরোনাম। খবরে বলা হচ্ছে, সুন্দরবনের আকরাম পয়েন্টে তরলীকৃত প্রাকৃতিক গ্যাসের (এলএনজি) টার্মিনাল বা ভাসমান স্টোরেজ ও রিগ্যাসিফিকেশন ইউনিট (এফএসআরইউ) নির্মাণের পরিকল্পনা করছে সরকার।\n\nপাইপলাইনের মাধ্যমে সেই গ্যাস মোংলায় নিয়ে অর্থনৈতিক অঞ্চলের শিল্পকারখানায় ব্যবহার করা হবে।\n\nটার্মিনাল করার লক্ষ্য নিয়ে গত আগস্ট মাসে আকরাম পয়েন্ট এলাকা পরিদর্শন করেন নৌপরিবহনমন্ত্রী, বিদ্যুৎমন্ত্রী ও প্রতিমন্ত্রীর নেতৃত্বে সরকারের উচ্চ পর্যায়ের প্রতিনিধি দল।\n\n২২শে অক্টোবর প্রধানমন্ত্রী তারেক রহমানের স্থানটি পরিদর্শনের কথা রয়েছে। প্রাথমিকভাবে স্থান নির্বাচন হলে সম্ভাব্যতা যাচাইসহ অন্যান্য কাজ শুরু হবে।\n\nসোমবার রাজধানীতে ফরেন ইনভেস্টরস চেম্বার অব কমার্স অ্যান্ড ইন্ডাস্ট্রি (এফআইসিসিআই) আয়োজিত আলোচনা সভায় অর্থ ও পরিকল্পনামন্ত্রী আমির খসরু মাহমুদ চৌধুরী জানান, খুলনার কাছে বড় জাহাজ থেকে সরাসরি জ্বালানি তেল ও তরলীকৃত প্রাকৃতিক গ্যাস (এলএনজি) খালাসের সুবিধাসম্পন্ন একটি আধুনিক টার্মিনাল গড়ে তোলার উদ্যোগ নেওয়া হয়েছে।\n\nখুলনার কাছে ২০ মিটার ড্রাফটের একটি স্থান চিহ্নিত করা হয়েছে। সেখানে বড় জাহাজ থেকে সরাসরি তেল ও এলএনজি খালাসের সুবিধা পাওয়া যাবে।\n\nনিউ এইজের শিরোনাম'Bangladesh, families kept in dark about trial process'অর্থাৎ 'সৌদি আরবে দুই বাংলাদেশির বিচারপ্রক্রিয়া, মৃত্যুদন্ড কার্যকর নিয়ে অন্ধকারে ছিলো বাংলাদেশ ও পরিবার'।\n\nখবরে বলা হচ্ছে, সৌদি আরবের মক্কায় একটি মসজিদে 'অনৈতিক কর্মকাণ্ড' চালানোর অভিযোগে সম্প্রতি মৃত্যুদণ্ড কার্যকর হওয়া দুই বাংলাদেশির বিচার প্রক্রিয়া সম্পর্কে বাংলাদেশে কর্তৃপক্ষ এবং তাদের পরিবার কেউই যথাযথ তথ্য জানতেন না।\n\nপররাষ্ট্র মন্ত্রণালয়ের একজন ঊর্ধ্বতন কর্মকর্তা নিশ্চিত করেছেন, দণ্ডিত ব্যক্তিদের একজনের নাম নজরুল ইসলাম এবং অন্যজনের নাম সিথি আক্তার। ২০২৩ সালে আটক হওয়ার পর থেকেই তারা কারাগারে ছিলেন।\n\nনজরুল ইসলামের বাড়ি ব্রাহ্মণবাড়িয়া। তার পরিবার জানিয়েছে, তার বিরুদ্ধে কী অভিযোগ আনা হয়েছে বা সেখানে বিচার প্রক্রিয়াটি কীভাবে চলছে, সে সম্পর্কে তারা কিছুই জানত না।\n\nপররাষ্ট্র মন্ত্রণালয়ের এক কর্মকর্তা জানিয়েছেন, সৌদি আরবে অবস্থিত বাংলাদেশ মিশন কিংবা পররাষ্ট্র মন্ত্রণালয়—কাউকেই এই বিচার প্রক্রিয়ার বিষয়ে অবহিত করা হয়নি।\n\nফলে, ওই দুই বাংলাদেশি নাগরিকের ক্ষেত্রে কনসুলার সুবিধা দেওয়া সম্ভব হয়নি। অথচ 'ভিয়েনা কনভেনশন অন কনসুলার রিলেশন্স, ১৯৬৩' অনুযায়ী, কোনো বিদেশি নাগরিক অন্য কোনো দেশে আটক বা গ্রেপ্তার হলে, তাঁর কনসুলার সুবিধা পাওয়ার আইনি অধিকার রয়েছে।\n\nবিবিসি বাংলার সর্বশেষ খবর ও বিশ্লেষণ এখন সরাসরি আপনার ফোনে।\n\nবিবিসি বাংলার সাথে থাকার জন্য ধন্যবাদ বিবিসি বাংলার হোয়াটসঅ্যাপ চ্যানেল\n\n'বিবিএসের তথ্যের বিশ্বাসযোগ্যতা নিয়ে এখনো প্রশ্ন রয়ে গেছে'বণিক বার্তার শিরোনাম।"
-    },
-    {
-        "id": "82b08aaebc",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zSGdSOEdaLVhscl94Nkg0UkpNTUkzV09kLUlOY0lUOEhYbVNvQ2FFYnNYUENPMHE1LWpxUGlhendwV2dMdFZkajJlNnQyTXpZanJsem05ODVOSGRVVFE?oc=5",
-        "title": "সৈয়দপুরে প্রধানমন্ত্রীকে অভ্যর্থনা - bdnews24.com",
-        "category": "Google News BD",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "details": "সৈয়দপুরে প্রধানমন্ত্রীকে অভ্যর্থনাbdnews24.comGoogle News-এ আরও শিরোনাম ও মতামত দেখুন"
-    },
-    {
-        "id": "aa98002763",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrd2h0X1BQRlFNS2RwdzJXOTdNSWNWa0xtNDhwUm93ZklhZmJGcFdzb19KWThYVTZMcmdobXg2eGNURHJQV3dwVGt4cWtYX2NaMzlfbDN3YklhQQ?oc=5",
-        "title": "এনসিপির ভবিষ্যৎ জিরো’, নাহিদকে ইশরাকের কড়া জবাব - Dhakatimes24",
-        "category": "Google News BD",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "details": "এনসিপির ভবিষ্যৎ জিরো’, নাহিদকে ইশরাকের কড়া জবাবDhakatimes24সরকারপ্রধানের কড়া বার্তাপ্রথম আলোমার্টিন লুথার কিংয়ের উদ্ধৃতি দিয়ে ইশরাকের স্ত্রীর পোস্টbd-pratidin.comইশরাকনামা...দ্য ডেইলি স্টার বাংলাপদত্যাগের পর ইশরাকের স্ত্রীর রহস্যময় পোস্টJugantor"
-    },
-    {
-        "id": "edb85c067e",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6eHNxang4Qmx2LXRXNUJBXzB4UmJPYVpaMWNKRE1FVTFBT05GQzF5VW5nWm00eURBelplZFQxV2JmdFhFYTFHY09ELVVDcWxMZE0xdlZFWWJyM2Vwb3lOOG530gFvQVVfeXFMTTJTemlRUTV0Z3VkOTZPYnNnbnoxLU1acVM0WHU5cGVWdF9fRnVfT1pGVE5VanF2RHdTaEJ5ZXlaWERKVXFYblJIMFhPeTJfNXZQTmJTcFo5Z1hvbHg2SDA5ZTUzMjVpeXF4SnM4aEgw?oc=5",
-        "title": "সৌদিতে দুই বাংলাদেশির মৃত্যুদণ্ড কেন চূড়ান্ত সতর্কতা–ঘণ্টা - প্রথম আলো",
-        "category": "Google News BD",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "details": "সৌদিতে দুই বাংলাদেশির মৃত্যুদণ্ড কেন চূড়ান্ত সতর্কতা–ঘণ্টাপ্রথম আলোসৌদি আরবে মৃত্যুদণ্ড হওয়া বাংলাদেশিকে নিয়ে কী জানা যাচ্ছেBBCসৌদি আরবে দুই বাংলাদেশির মৃত্যুদণ্ডের রায়ের কপি চেয়েছে ঢাকাপ্রথম আলোসৌদিতে দুইজনের মৃত্যুদণ্ড নিয়ে মন্ত্রী দিলেন ভুল তথ্য, মন্ত্রণালয় যা জানালোDainik Shikshaনাটোরে বাস-বালুবোঝাই ট্রাক সংঘর্ষে নিহত ১৪Banglanews24"
-    },
-    {
-        "id": "35ae095e8c",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QjJHMFExN0UwdjZ5X3Bmb0NNdDlnNkhXTk9jMjRhdHNaLWtnVm9laXZNWUExeDYzNGY0QXNBSW1OQ3JBdU0tNTB5ejV5Y2FOMjNoU3ZmOHhOV0FCdXVV0gFkQVVfeXFMT2VPYWhfYWU1ZVZBY1VSSVFtMjZZcWc3eG9YNUlYWXRWek9zV3RSbzR0bW9PWmxSaG5KRzF4YzM4T1Z5UG41SXd1VF9vaWZRSkhYUkpCUlpHYW01b2p5aVVyNHNobg?oc=5",
-        "title": "ফ্রান্সজুড়ে দাঙ্গা, প্যারিসের কিছু জায়গা এবং অন্যান্য শহরে কারফিউ জারি - BBC",
-        "category": "Google News BD",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "details": "ফ্রান্সজুড়ে দাঙ্গা, প্যারিসের কিছু জায়গা এবং অন্যান্য শহরে কারফিউ জারিBBCউত্তাল ফ্রান্স, কয়েকটি\nশহরে কারফিউ জারিপ্রথম আলোইউরোপে কি আরব বসন্তের পুনরাবৃত্তি, ৯ দেশের বিক্ষোভ কি সমন্বিত?Bangla Tribuneশিগগিরই প্যারিস মুসলিমদের শহর হয়ে যাবে: ট্রাম্পThe Daily Ittefaqশিগগিরই প্যারিস মুসলিম নগরীতে পরিণত হবে: ট্রাম্পদৈনিক ইনকিলাব"
-    },
-    {
-        "id": "535820bcbb",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGtPU3IweHpXQ2tmdkc4aGw0U2RYSjJVLXVxSVVYbUJEUFVrbWdzUEV3VnpHWkluSFlLS0ZCVTNmX0dBT2J3UC1KU1JxR3FWaGJTODc4d1NpVVJlazFnV1RSNHVzTC1wbkYyS1JiUDVvc2t0TFc3UUM2cl9Gd1VfY240Nl9HaHBPYVNxQUM2YkNWUkpNUG5TcdIBngFBVV95cUxPRzNxSGY1TDJXZ2x1Zzg4UW1pUzJBanYyZXpTLVkwQzBZclVlT2ZjbzgyWlZmdExtbWtCR20yeEpIT0QxZnk3TXhDS2VocWVkQ2ljdTNYWVVRR1gxWTV3d2UxcWx6elF0NWIwYUh5V05RalJZclk5SGd2WnktcFZTVy0wSUQxMXVyRmVwZUdNUTNuMlNPU0xQUS02UU5iUQ?oc=5",
-        "title": "চোরবাগান-বিপর্যয়ে মৃতদের পরিজনদের সঙ্গে সাক্ষাৎ মুখ্যমন্ত্রীর, তদন্তের গতিপথ। টাইগার শ্রফ। নবমীর আবহাওয়া। কী আছে - Anandabazar Patrika",
-        "category": "Google News BD",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "details": "চোরবাগান-বিপর্যয়ে মৃতদের পরিজনদের সঙ্গে সাক্ষাৎ মুখ্যমন্ত্রীর, তদন্তের গতিপথ। টাইগার শ্রফ। নবমীর আবহাওয়া। কী আছেAnandabazar Patrikaকলকাতায় পূজামণ্ডপে পদদলিত হয়ে মৃত্যু বেড়ে ১৯, হাসপাতালে ২৫দ্য ডেইলি স্টার বাংলাChorbagan Stampede : এতজনের অকালপ্রয়াণ..., চোরবাগান ঘটনা নিয়ে মুখ খুললেন দিলীপ ঘোষ, কী জানালেন ?ABP Anandaচোরবাগানে পদপিষ্টের ঘটনায় গিরিশ পার্ক থানায় মামলা দায়ের, পুজো কমিটির সম্পাদক-সহ গ্রেফতার ৭News18 Bengaliপদপিষ্ট হয়ে নাকি দম বন্ধ হয়ে? চোরবাগান বিপর্যয়ের নেপথ্যে অদৃশ্য ঘাতক 'ক্রাউড ক্রাশ' ঠিক কী?Indian Express Bengali"
-    },
-    {
-        "id": "ea04bdf3e7",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOVTlpMzZ3TVBDcXlOX2tNeTNnUGZsemx0OUF0NWhidzl5b3V3TnpfbGxXSDU4NDBBcmpqZTdzQlV6T3lRRkJuQ3dMdTQwRUVXOUJCVzF0MUZXUzhWTlhZY3pOTDRONUhpY19uNXlB0gF7QVVfeXFMUGxjNU5hVks3Y1A2NU1jT2FKME9qWEdMNmRLd1BfWmtEb2FvYW5hSXc5Uk9YdFdhNy1sNkVBVTZFQmdTSkRHNS1IRzdYZDd0bW1NYmwyRlI4VHpGeUpOTnVvbF9MN3djTmJ4Y05CeW1IWEVrdTFPeXpVNGIw?oc=5",
-        "title": "বলিউডের আতঙ্ক কে এই লরেন্স বিষ্ণোই - প্রথম আলো",
-        "category": "Google News BD",
-        "time": "Tue, 20 Oct 2026",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "details": "বলিউডের আতঙ্ক কে এই লরেন্স বিষ্ণোইপ্রথম আলোছেলে টাইগারের উপর হামলার পর প্রথম প্রকাশ্যে জ্যাকী শ্রফ! হাতে চারাগাছ নিয়ে কী বার্তা তাঁর?Anandabazar Patrikaটাইগার শ্রফকে হত্যাচেষ্টা: ছোড়া হয় ৫টি গুলি, হামলাকারীদের ছবি প্রকাশbdnews24.comটাইগারের ওপর হামলা, ছুটে গেলেন প্রাক্তন দিশাদৈনিক ইনকিলাবTiger Shroff: বাবার কারণ তিনি অভিনয় জগতে, কী হতে চেয়েছিলেন টাইগার শ্রফ?News18 Bengali"
     }
 ]
